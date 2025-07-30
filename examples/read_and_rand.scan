@@ -1,0 +1,8 @@
+READ read null
+PLUS + null
+RAND rand null
+MINUS - null
+READ <- null
+SLASH / null
+RAND !! null
+EOF  null
